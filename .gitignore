@@ -1,0 +1,47 @@
+# Private project guide — never commit
+/CLAUDE.md
+
+# ===== Unity generated folders (recreated automatically, never commit) =====
+# Patterns are unanchored so they work from the Unity project subfolder too.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Asset store tools
+/[Aa]ssets/AssetStoreTools*
+
+# IDE / editor caches
+.vs/
+.vscode/
+.idea/
+.utmp/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash reports & misc
+sysinfo.txt
+crashlytics-build.properties
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# macOS
+.DS_Store
